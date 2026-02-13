@@ -66,9 +66,9 @@ export const profiles = {
     },
 
     asking: {
-      title: "{name}, tu veux être ma Valentine ?",
-      yesText: "Oui",
-      noText: "Non",
+      title: "{name}, will you be my Valentine?",
+      yesText: "Yes",
+      noText: "No",
       noStartPosition: { top: "60%", left: "60%" },
     },
 
@@ -82,20 +82,16 @@ export const profiles = {
     },
 
     accepted: {
-      title: "Yesss ❤️",
-      loveNote: "{name}, tu es incroyable.",
+      title: "Yay! I knew you'd say yes! ❤️",
+      loveNote: "To the most beautiful girl in the world, {name}.",
       photos: [
         "/profiles/asmahane/asmahane1.jpeg",
         "/profiles/asmahane/asmahane2.jpeg",
         "/profiles/asmahane/asmahane3.jpeg",
       ],
-      reasons: [
-        "Ton sourire",
-        "Ton énergie",
-        "Parce que tu rends tout plus beau",
-      ],
+      reasons: ["Your beautiful smile", "The way you care", "Making me laugh"],
       music: {
-        label: "Notre chanson 🎵",
+        label: "Our song... 🎵",
         youtubeEmbedUrl: "https://www.youtube.com/embed/gsc5m3p_tBs?autoplay=1",
         width: 300,
         height: 80,
@@ -116,9 +112,9 @@ export const profiles = {
     },
 
     asking: {
-      title: "{name}, tu veux être ma Valentine ?",
-      yesText: "Oui",
-      noText: "Non",
+      title: "{name}, will you be my Valentine?",
+      yesText: "Yes",
+      noText: "No",
       noStartPosition: { top: "60%", left: "60%" },
     },
 
@@ -132,16 +128,16 @@ export const profiles = {
     },
 
     accepted: {
-      title: "Yesss ❤️",
-      loveNote: "{name}, tu es incroyable.",
+      title: "Yay! I knew you'd say yes! ❤️",
+      loveNote: "To the most beautiful girl in the world, {name}.",
       photos: [
         "/profiles/dodo/dodo1.jpeg",
         "/profiles/dodo/dodo2.jpeg",
         "/profiles/dodo/dodo3.jpeg",
       ],
-      reasons: ["Ton sourire", "Ton humour", "Parce que je t'adore"],
+      reasons: ["Your beautiful smile", "The way you care", "Making me laugh"],
       music: {
-        label: "Notre chanson 🎵",
+        label: "Our song... 🎵",
         youtubeEmbedUrl: "https://www.youtube.com/embed/gsc5m3p_tBs?autoplay=1",
         width: 300,
         height: 80,
