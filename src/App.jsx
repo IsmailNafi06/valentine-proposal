@@ -219,7 +219,9 @@ function App() {
                   }`}
                   onClick={() => toggleReason(index)}
                 >
-                  {revealedReasons.includes(index) ? reason : "Click Me! 💌"}
+                  {revealedReasons.includes(index)
+                    ? reason
+                    : profile.accepted?.reasonPlaceholder || "Click Me! 💌"}
                 </div>
               ))}
             </div>

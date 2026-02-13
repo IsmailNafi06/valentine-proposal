@@ -222,6 +222,7 @@ export const profiles = {
     accepted: {
       title: "Yay! I knew you'd say yes! ❤️",
       loveNote: "To the most beautiful girl in the world, {name}.",
+      reasonPlaceholder: "Please come back 💌",
       photos: [
         "/profiles/safae/safae1.jpeg",
         "/profiles/safae/safae2.jpeg",
