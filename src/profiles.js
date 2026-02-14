@@ -284,6 +284,282 @@ export const profiles = {
     },
   },
 
+  salma2: {
+    person: {
+      name: "Salma",
+    },
+
+    theme: {
+      primary: "#ff4d6d",
+      secondary: "#ff8fa3",
+      bg: "#fff0f3",
+      text: "#590d22",
+    },
+
+    asking: {
+      title: "{name}, will you be my Valentine?",
+      yesText: "Yes",
+      noText: "No",
+      noStartPosition: { top: "60%", left: "60%" },
+    },
+
+    threat: {
+      enabled: true,
+      delayMs: 10000,
+      imageSrc: catMeme,
+      title: "STOP PLAYING WITH ME",
+      subtitle: "CLICK YES NOW",
+      buttonText: "OKAY YES",
+    },
+
+    accepted: {
+      title: "Yay! I knew you'd say yes! ❤️",
+      loveNote: "To the most beautiful girl in the world, {name}.",
+      photos: [
+        "/profiles/salma2/salma4.jpeg",
+        "/profiles/salma2/salma5.jpeg",
+        "/profiles/salma2/salma6.jpeg",
+      ],
+      reasons: ["Your beautiful smile", "The way you care", "Making me laugh"],
+      music: {
+        label: "Our song... 🎵",
+        youtubeEmbedUrl: "https://www.youtube.com/embed/gsc5m3p_tBs?autoplay=1",
+        width: 300,
+        height: 80,
+      },
+    },
+  },
+
+  basma: {
+    person: {
+      name: "Basma",
+    },
+
+    theme: {
+      primary: "#ff4d6d",
+      secondary: "#ff8fa3",
+      bg: "#fff0f3",
+      text: "#590d22",
+    },
+
+    asking: {
+      title: "{name}, will you be my Valentine?",
+      yesText: "Yes",
+      noText: "No",
+      noStartPosition: { top: "60%", left: "60%" },
+    },
+
+    threat: {
+      enabled: true,
+      delayMs: 10000,
+      imageSrc: catMeme,
+      title: "STOP PLAYING WITH ME",
+      subtitle: "CLICK YES NOW",
+      buttonText: "OKAY YES",
+    },
+
+    accepted: {
+      title: "Yay! I knew you'd say yes! ❤️",
+      loveNote: "To the most beautiful girl in the world, {name}.",
+      photos: [
+        "/profiles/basma/basma1.jpeg",
+        "/profiles/basma/basma2.jpeg",
+        "/profiles/basma/basma3.jpeg",
+      ],
+      reasons: ["Your beautiful smile", "The way you care", "Making me laugh"],
+      music: {
+        label: "Our song... 🎵",
+        youtubeEmbedUrl: "https://www.youtube.com/embed/gsc5m3p_tBs?autoplay=1",
+        width: 300,
+        height: 80,
+      },
+    },
+  },
+
+  hiba: {
+    person: {
+      name: "Hiba",
+    },
+
+    theme: {
+      primary: "#ff4d6d",
+      secondary: "#ff8fa3",
+      bg: "#fff0f3",
+      text: "#590d22",
+    },
+
+    asking: {
+      title: "{name}, will you be my Valentine?",
+      yesText: "Yes",
+      noText: "No",
+      noStartPosition: { top: "60%", left: "60%" },
+    },
+
+    threat: {
+      enabled: true,
+      delayMs: 10000,
+      imageSrc: catMeme,
+      title: "STOP PLAYING WITH ME",
+      subtitle: "CLICK YES NOW",
+      buttonText: "OKAY YES",
+    },
+
+    accepted: {
+      title: "Yay! I knew you'd say yes! ❤️",
+      loveNote: "To the most beautiful girl in the world, {name}.",
+      photos: [
+        "/profiles/hiba/hiba1.jpeg",
+        "/profiles/hiba/hiba2.jpeg",
+        "/profiles/hiba/hiba3.jpeg",
+      ],
+      reasons: ["Your beautiful smile", "The way you care", "Making me laugh"],
+      music: {
+        label: "Our song... 🎵",
+        youtubeEmbedUrl: "https://www.youtube.com/embed/gsc5m3p_tBs?autoplay=1",
+        width: 300,
+        height: 80,
+      },
+    },
+  },
+
+  riham: {
+    person: {
+      name: "Riham",
+    },
+
+    theme: {
+      primary: "#ff4d6d",
+      secondary: "#ff8fa3",
+      bg: "#fff0f3",
+      text: "#590d22",
+    },
+
+    asking: {
+      title: "{name}, will you be my Valentine?",
+      yesText: "Yes",
+      noText: "No",
+      noStartPosition: { top: "60%", left: "60%" },
+    },
+
+    threat: {
+      enabled: true,
+      delayMs: 10000,
+      imageSrc: catMeme,
+      title: "STOP PLAYING WITH ME",
+      subtitle: "CLICK YES NOW",
+      buttonText: "OKAY YES",
+    },
+
+    accepted: {
+      title: "Yay! I knew you'd say yes! ❤️",
+      loveNote: "To the most beautiful girl in the world, {name}.",
+      photos: [
+        "/profiles/riham/riham1.jpeg",
+        "/profiles/riham/riham2.jpeg",
+        "/profiles/riham/riham3.jpeg",
+      ],
+      reasons: ["Your beautiful smile", "The way you care", "Making me laugh"],
+      music: {
+        label: "Our song... 🎵",
+        youtubeEmbedUrl: "https://www.youtube.com/embed/gsc5m3p_tBs?autoplay=1",
+        width: 300,
+        height: 80,
+      },
+    },
+  },
+
+  rim: {
+    person: {
+      name: "Rim",
+    },
+
+    theme: {
+      primary: "#ff4d6d",
+      secondary: "#ff8fa3",
+      bg: "#fff0f3",
+      text: "#590d22",
+    },
+
+    asking: {
+      title: "{name}, will you be my Valentine?",
+      yesText: "Yes",
+      noText: "No",
+      noStartPosition: { top: "60%", left: "60%" },
+    },
+
+    threat: {
+      enabled: true,
+      delayMs: 10000,
+      imageSrc: catMeme,
+      title: "STOP PLAYING WITH ME",
+      subtitle: "CLICK YES NOW",
+      buttonText: "OKAY YES",
+    },
+
+    accepted: {
+      title: "Yay! I knew you'd say yes! ❤️",
+      loveNote: "To the most beautiful girl in the world, {name}.",
+      photos: [
+        "/profiles/rim/rim1.jpeg",
+        "/profiles/rim/rim2.jpeg",
+        "/profiles/rim/rim3.jpeg",
+      ],
+      reasons: ["Your beautiful smile", "The way you care", "Making me laugh"],
+      music: {
+        label: "Our song... 🎵",
+        youtubeEmbedUrl: "https://www.youtube.com/embed/gsc5m3p_tBs?autoplay=1",
+        width: 300,
+        height: 80,
+      },
+    },
+  },
+
+  wiam: {
+    person: {
+      name: "Wiam",
+    },
+
+    theme: {
+      primary: "#ff4d6d",
+      secondary: "#ff8fa3",
+      bg: "#fff0f3",
+      text: "#590d22",
+    },
+
+    asking: {
+      title: "{name}, will you be my Valentine?",
+      yesText: "Yes",
+      noText: "No",
+      noStartPosition: { top: "60%", left: "60%" },
+    },
+
+    threat: {
+      enabled: true,
+      delayMs: 10000,
+      imageSrc: catMeme,
+      title: "STOP PLAYING WITH ME",
+      subtitle: "CLICK YES NOW",
+      buttonText: "OKAY YES",
+    },
+
+    accepted: {
+      title: "Yay! I knew you'd say yes! ❤️",
+      loveNote: "To the most beautiful girl in the world, {name}.",
+      photos: [
+        "/profiles/wiam/wiam1.jpeg",
+        "/profiles/wiam/wiam2.jpeg",
+        "/profiles/wiam/wiam3.jpeg",
+      ],
+      reasons: ["Your beautiful smile", "The way you care", "Making me laugh"],
+      music: {
+        label: "Our song... 🎵",
+        youtubeEmbedUrl: "https://www.youtube.com/embed/gsc5m3p_tBs?autoplay=1",
+        width: 300,
+        height: 80,
+      },
+    },
+  },
+
   // Exemple rapide à dupliquer pour une autre personne.
   // Astuce: pour des photos sans import, mets-les dans /public/profiles/maeva/1.jpg
   // et utilise: photos: ['/profiles/maeva/1.jpg', '/profiles/maeva/2.jpg']
