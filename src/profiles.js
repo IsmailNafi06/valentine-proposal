@@ -560,6 +560,52 @@ export const profiles = {
     },
   },
 
+  ahlam: {
+    person: {
+      name: "Ahlam",
+    },
+
+    theme: {
+      primary: "#ff4d6d",
+      secondary: "#ff8fa3",
+      bg: "#fff0f3",
+      text: "#590d22",
+    },
+
+    asking: {
+      title: "{name}, will you be my Valentine?",
+      yesText: "Yes",
+      noText: "No",
+      noStartPosition: { top: "60%", left: "60%" },
+    },
+
+    threat: {
+      enabled: true,
+      delayMs: 10000,
+      imageSrc: catMeme,
+      title: "STOP PLAYING WITH ME",
+      subtitle: "CLICK YES NOW",
+      buttonText: "OKAY YES",
+    },
+
+    accepted: {
+      title: "Yay! I knew you'd say yes! ❤️",
+      loveNote: "To the most beautiful girl in the world, {name}.",
+      photos: [
+        "/profiles/ahlam/ahlam1.jpeg",
+        "/profiles/ahlam/ahlam2.jpeg",
+        "/profiles/ahlam/ahlam3.jpeg",
+      ],
+      reasons: ["Your beautiful smile", "The way you care", "Making me laugh"],
+      music: {
+        label: "Our song... 🎵",
+        youtubeEmbedUrl: "https://www.youtube.com/embed/gsc5m3p_tBs?autoplay=1",
+        width: 300,
+        height: 80,
+      },
+    },
+  },
+
   // Exemple rapide à dupliquer pour une autre personne.
   // Astuce: pour des photos sans import, mets-les dans /public/profiles/maeva/1.jpg
   // et utilise: photos: ['/profiles/maeva/1.jpg', '/profiles/maeva/2.jpg']
